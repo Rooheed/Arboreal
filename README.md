@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Arboreal web Pages
 
-You can use the [editor on GitHub](https://github.com/Rooheed/arboreal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Arboreal är en prenumerationstjänst för företag. Tjänsten innebär att man får sitt kontor inrett med växter med hjälp av experter från Arboreal. Sedan betalar man en månadskostnad för att få nya växter levererade och placerade på kontoret varje månad eller vecka beroende på vilken prisplan man har valt. Arboreal har sin kundgrupp bland små till medelstora IT-företag i stockholmsområdet.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
